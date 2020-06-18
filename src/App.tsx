@@ -8,6 +8,7 @@ export function App(props: { data: any }) {
   const branches = ['api/branch1.json', 'api/branch2.json', 'api/branch3.json']
   let initProducts: any[] = [];
   const [products, setProducts] = useState(initProducts);
+  const [filteredProducts, setFilteredProducts] = useState(initProducts);
   const [total, setTotal] = useState(0);
 
   useEffect(() => {
@@ -22,56 +23,39 @@ export function App(props: { data: any }) {
           const foundIndex = p.findIndex((e: any) => e.id === product.id);
           if (foundIndex > -1) {
             let existingItem = p[foundIndex];
-            product.revenue = product.unitPrice * product.sold;
-            revenue = revenue + product.revenue;    
             existingItem.sold = existingItem.sold + product.sold;
-            existingItem.revenue = existingItem.revenue + product.revenue;
             p[foundIndex] = existingItem;
-            
           } else {
-            product.revenue = product.unitPrice * product.sold;
-            revenue = revenue + product.revenue;
             p = [...p, product]
           }
         });
       });
       p.sort((p1: { name: number; }, p2: { name: number; }) => (p1.name < p2.name) ? -1 : (p1.name > p2.name) ? 1 : 0);
-      // revenue = formatNumber(revenue);
-      setTotal(revenue);
+      setTotal(calculateRevenue(p));
       setProducts([...p])
-      console.log('p', p);
-
+      setFilteredProducts([...p]);
     });
-
-
-
-
 
   }, []);
 
-  const mergeFruits = (products: any) => {
-    const result: any = {}; //(1)
+  const calculateRevenue = (products: any) => {
+    return products.reduce((accumulator: number, product: any) => {
+      let productRevenue = product.unitPrice * product.sold;
+      return accumulator + productRevenue;
+    }, 0);
+  }
 
-    let set = new Set();
-    let unionArray = products.filter((item: any) => {
-      if (!set.has(item.id)) {
-        set.add(item.id);
-        return true;
-      }
-      return false;
-    }, set);
-
-    console.log('unionArray', unionArray);
-
-    return result; //(7)
-  };
-
+  const handleChange = (e: any) => {
+    let value = e.target.value;
+    let newProducts = products.filter(e => e.name.toLowerCase().includes(value.toLowerCase()));
+    setTotal(calculateRevenue(newProducts));
+    setFilteredProducts([...newProducts]);
+  }
 
   return (
     <div className="product-list">
       <label>Search Products</label>
-      <input type="text" />
-
+      <input type="text" onChange={handleChange} />
       <table>
         <thead>
           <tr>
@@ -82,10 +66,10 @@ export function App(props: { data: any }) {
         <tbody>
         </tbody>
         <tfoot>
-          {products.map((product: any) => {
+          {filteredProducts.map((product: any) => {
             return <tr key={product.id}>
               <td>{product.name}</td>
-              <td>{formatNumber(product.revenue)}</td>
+              <td>{formatNumber(product.unitPrice * product.sold)}</td>
             </tr>
           })}
           <tr>
