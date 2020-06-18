@@ -1,6 +1,6 @@
 import React, { Component, useEffect, useState } from "react";
 import "./App.css";
-
+import ProductItem from './ProductItem';
 export const formatNumber = (number: number) => new Intl.NumberFormat("en", { minimumFractionDigits: 2 }).format(number);
 
 export function App(props: { data: any }) {
@@ -12,13 +12,15 @@ export function App(props: { data: any }) {
   const [total, setTotal] = useState(0);
 
   useEffect(() => {
+    fetchBranchData(branches);
+  }, []);
 
-    Promise.all(branches.map(url =>
+  const fetchBranchData = (branches: any) => {
+    Promise.all(branches.map((url: any) =>
       fetch(url).then(resp => resp.json())
     )).then(response => {
       let p: any = [];
-      let revenue: number = 0.0;
-      response.map(branch => {
+      response.map((branch: any) => {
         branch.products.map((product: any) => {
           const foundIndex = p.findIndex((e: any) => e.id === product.id);
           if (foundIndex > -1) {
@@ -35,8 +37,7 @@ export function App(props: { data: any }) {
       setProducts([...p])
       setFilteredProducts([...p]);
     });
-
-  }, []);
+  }
 
   const calculateRevenue = (products: any) => {
     return products.reduce((accumulator: number, product: any) => {
@@ -52,6 +53,10 @@ export function App(props: { data: any }) {
     setFilteredProducts([...newProducts]);
   }
 
+  if (!filteredProducts.length) {
+    return "Loading...";
+  }
+
   return (
     <div className="product-list">
       <label>Search Products</label>
@@ -64,14 +69,9 @@ export function App(props: { data: any }) {
           </tr>
         </thead>
         <tbody>
+          <ProductItem productData={filteredProducts} />
         </tbody>
         <tfoot>
-          {filteredProducts.map((product: any) => {
-            return <tr key={product.id}>
-              <td>{product.name}</td>
-              <td>{formatNumber(product.unitPrice * product.sold)}</td>
-            </tr>
-          })}
           <tr>
             <td>Total</td>
             <td>{formatNumber(total)}</td>
