@@ -31,7 +31,7 @@ Follow these steps to setup the app:
 
 # Developer notes
 
-I decided to make a few changed to the application, the first was changing the app to use typescript. I also wanted to use ReactJs Hooks, I changed the app to use a more functional approach. 
+I decided to make a few changes to the application, the first was changing the app to use typescript. I also wanted to use ReactJs Hooks, I changed the app to use a more functional approach. 
 
 Things I would’ve done better: 
 
