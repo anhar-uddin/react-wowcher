@@ -1,0 +1,2163 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`renders table that is sorted ascending 1`] = `
+<table>
+  <thead>
+    <tr>
+      <th>
+        Product
+      </th>
+      <th>
+        Revenue
+      </th>
+    </tr>
+  </thead>
+  <tbody>
+    <ProductItem
+      productData={
+        Array [
+          Object {
+            "id": "082",
+            "name": "Alfalfa Sprouts",
+            "sold": 2958,
+            "unitPrice": 11.29,
+          },
+          Object {
+            "id": "027",
+            "name": "Apple",
+            "sold": 5884,
+            "unitPrice": 9.81,
+          },
+          Object {
+            "id": "048",
+            "name": "Apricot",
+            "sold": 4970,
+            "unitPrice": 13.71,
+          },
+          Object {
+            "id": "068",
+            "name": "Artichoke",
+            "sold": 1547,
+            "unitPrice": 7.45,
+          },
+          Object {
+            "id": "110",
+            "name": "Asian Pear",
+            "sold": 5193,
+            "unitPrice": 6.09,
+          },
+          Object {
+            "id": "070",
+            "name": "Asparagus",
+            "sold": 4438,
+            "unitPrice": 14.59,
+          },
+          Object {
+            "id": "041",
+            "name": "Atemoya",
+            "sold": 6642,
+            "unitPrice": 5.34,
+          },
+          Object {
+            "id": "013",
+            "name": "Avocado",
+            "sold": 4347,
+            "unitPrice": 7.5,
+          },
+          Object {
+            "id": "054",
+            "name": "Bamboo Shoots",
+            "sold": 3568,
+            "unitPrice": 8.82,
+          },
+          Object {
+            "id": "067",
+            "name": "Banana",
+            "sold": 3031,
+            "unitPrice": 10.84,
+          },
+          Object {
+            "id": "120",
+            "name": "Bean Sprouts",
+            "sold": 3600,
+            "unitPrice": 13.28,
+          },
+          Object {
+            "id": "107",
+            "name": "Beans",
+            "sold": 5017,
+            "unitPrice": 14.13,
+          },
+          Object {
+            "id": "111",
+            "name": "Beets",
+            "sold": 6234,
+            "unitPrice": 14.1,
+          },
+          Object {
+            "id": "034",
+            "name": "Belgian Endive",
+            "sold": 8245,
+            "unitPrice": 5.68,
+          },
+          Object {
+            "id": "129",
+            "name": "Bell Peppers",
+            "sold": 5224,
+            "unitPrice": 12.24,
+          },
+          Object {
+            "id": "020",
+            "name": "Bitter Melon",
+            "sold": 2829,
+            "unitPrice": 11.93,
+          },
+          Object {
+            "id": "083",
+            "name": "Blackberries",
+            "sold": 6519,
+            "unitPrice": 13.57,
+          },
+          Object {
+            "id": "035",
+            "name": "Blueberries",
+            "sold": 6130,
+            "unitPrice": 8.45,
+          },
+          Object {
+            "id": "000",
+            "name": "Bok Choy",
+            "sold": 3770,
+            "unitPrice": 13.63,
+          },
+          Object {
+            "id": "001",
+            "name": "Boniato",
+            "sold": 2480,
+            "unitPrice": 10.78,
+          },
+          Object {
+            "id": "059",
+            "name": "Boysenberries",
+            "sold": 3739,
+            "unitPrice": 12.96,
+          },
+          Object {
+            "id": "073",
+            "name": "Broccoflower",
+            "sold": 8994,
+            "unitPrice": 14.08,
+          },
+          Object {
+            "id": "062",
+            "name": "Broccoli",
+            "sold": 6595,
+            "unitPrice": 9.46,
+          },
+          Object {
+            "id": "060",
+            "name": "Brussels Sprouts",
+            "sold": 1494,
+            "unitPrice": 5.56,
+          },
+          Object {
+            "id": "080",
+            "name": "Cabbage",
+            "sold": 7424,
+            "unitPrice": 5.7,
+          },
+          Object {
+            "id": "039",
+            "name": "Cactus Pear",
+            "sold": 4914,
+            "unitPrice": 14.48,
+          },
+          Object {
+            "id": "105",
+            "name": "Cantaloupe",
+            "sold": 5416,
+            "unitPrice": 10.89,
+          },
+          Object {
+            "id": "010",
+            "name": "Carambola",
+            "sold": 2423,
+            "unitPrice": 8.09,
+          },
+          Object {
+            "id": "119",
+            "name": "Carrots",
+            "sold": 7783,
+            "unitPrice": 13.84,
+          },
+          Object {
+            "id": "003",
+            "name": "Casaba Melon",
+            "sold": 2731,
+            "unitPrice": 6.71,
+          },
+          Object {
+            "id": "056",
+            "name": "Cauliflower",
+            "sold": 4291,
+            "unitPrice": 7.62,
+          },
+          Object {
+            "id": "008",
+            "name": "Celery",
+            "sold": 5265,
+            "unitPrice": 5.66,
+          },
+          Object {
+            "id": "077",
+            "name": "Chayote",
+            "sold": 3178,
+            "unitPrice": 14.32,
+          },
+          Object {
+            "id": "066",
+            "name": "Cherimoya",
+            "sold": 6171,
+            "unitPrice": 7.59,
+          },
+          Object {
+            "id": "100",
+            "name": "Cherries",
+            "sold": 4703,
+            "unitPrice": 6.26,
+          },
+          Object {
+            "id": "131",
+            "name": "Coconuts",
+            "sold": 5621,
+            "unitPrice": 6.61,
+          },
+          Object {
+            "id": "030",
+            "name": "Collard Greens",
+            "sold": 3264,
+            "unitPrice": 11.51,
+          },
+          Object {
+            "id": "015",
+            "name": "Corn",
+            "sold": 3592,
+            "unitPrice": 7.71,
+          },
+          Object {
+            "id": "058",
+            "name": "Cranberries",
+            "sold": 8802,
+            "unitPrice": 11.41,
+          },
+          Object {
+            "id": "101",
+            "name": "Cucumber",
+            "sold": 3498,
+            "unitPrice": 12.43,
+          },
+          Object {
+            "id": "117",
+            "name": "Dates",
+            "sold": 4372,
+            "unitPrice": 13.4,
+          },
+          Object {
+            "id": "019",
+            "name": "Dried Plums",
+            "sold": 5303,
+            "unitPrice": 6.1,
+          },
+          Object {
+            "id": "005",
+            "name": "Eggplant",
+            "sold": 3908,
+            "unitPrice": 8.1,
+          },
+          Object {
+            "id": "009",
+            "name": "Endive",
+            "sold": 3903,
+            "unitPrice": 14.47,
+          },
+          Object {
+            "id": "032",
+            "name": "Escarole",
+            "sold": 2479,
+            "unitPrice": 6.07,
+          },
+          Object {
+            "id": "109",
+            "name": "Feijoa",
+            "sold": 9030,
+            "unitPrice": 5.99,
+          },
+          Object {
+            "id": "103",
+            "name": "Fennel",
+            "sold": 3414,
+            "unitPrice": 11.39,
+          },
+          Object {
+            "id": "074",
+            "name": "Figs",
+            "sold": 2280,
+            "unitPrice": 13.73,
+          },
+          Object {
+            "id": "122",
+            "name": "Garlic",
+            "sold": 4088,
+            "unitPrice": 10.14,
+          },
+          Object {
+            "id": "099",
+            "name": "Gooseberries",
+            "sold": 1522,
+            "unitPrice": 5.38,
+          },
+          Object {
+            "id": "116",
+            "name": "Grapefruit",
+            "sold": 7348,
+            "unitPrice": 9.97,
+          },
+          Object {
+            "id": "021",
+            "name": "Grapes",
+            "sold": 5407,
+            "unitPrice": 14.27,
+          },
+          Object {
+            "id": "002",
+            "name": "Green Beans",
+            "sold": 3883,
+            "unitPrice": 7.34,
+          },
+          Object {
+            "id": "031",
+            "name": "Green Onions",
+            "sold": 8514,
+            "unitPrice": 6.19,
+          },
+          Object {
+            "id": "123",
+            "name": "Greens",
+            "sold": 6270,
+            "unitPrice": 6.55,
+          },
+          Object {
+            "id": "069",
+            "name": "Guava",
+            "sold": 7045,
+            "unitPrice": 13.85,
+          },
+          Object {
+            "id": "098",
+            "name": "Hominy",
+            "sold": 2005,
+            "unitPrice": 7.64,
+          },
+          Object {
+            "id": "096",
+            "name": "Honeydew Melon",
+            "sold": 3383,
+            "unitPrice": 7.77,
+          },
+          Object {
+            "id": "092",
+            "name": "Horned Melon",
+            "sold": 2768,
+            "unitPrice": 8.69,
+          },
+          Object {
+            "id": "004",
+            "name": "Iceberg Lettuce",
+            "sold": 6046,
+            "unitPrice": 12.99,
+          },
+          Object {
+            "id": "022",
+            "name": "Jerusalem Artichoke",
+            "sold": 5387,
+            "unitPrice": 14.28,
+          },
+          Object {
+            "id": "007",
+            "name": "Jicama",
+            "sold": 6166,
+            "unitPrice": 6.3,
+          },
+          Object {
+            "id": "114",
+            "name": "Kale",
+            "sold": 3452,
+            "unitPrice": 7.52,
+          },
+          Object {
+            "id": "025",
+            "name": "Kiwifruit",
+            "sold": 9371,
+            "unitPrice": 11.8,
+          },
+          Object {
+            "id": "033",
+            "name": "Kohlrabi",
+            "sold": 5229,
+            "unitPrice": 11.01,
+          },
+          Object {
+            "id": "036",
+            "name": "Kumquat",
+            "sold": 2077,
+            "unitPrice": 14.16,
+          },
+          Object {
+            "id": "028",
+            "name": "Leeks",
+            "sold": 2950,
+            "unitPrice": 9.49,
+          },
+          Object {
+            "id": "126",
+            "name": "Lemons",
+            "sold": 9011,
+            "unitPrice": 6.53,
+          },
+          Object {
+            "id": "071",
+            "name": "Lettuce",
+            "sold": 2901,
+            "unitPrice": 7.96,
+          },
+          Object {
+            "id": "084",
+            "name": "Lima Beans",
+            "sold": 2456,
+            "unitPrice": 5.43,
+          },
+          Object {
+            "id": "076",
+            "name": "Limes",
+            "sold": 3912,
+            "unitPrice": 11.55,
+          },
+          Object {
+            "id": "081",
+            "name": "Longan",
+            "sold": 8460,
+            "unitPrice": 7.58,
+          },
+          Object {
+            "id": "090",
+            "name": "Loquat",
+            "sold": 1620,
+            "unitPrice": 9.77,
+          },
+          Object {
+            "id": "047",
+            "name": "Lychee",
+            "sold": 7649,
+            "unitPrice": 10.22,
+          },
+          Object {
+            "id": "014",
+            "name": "Madarins",
+            "sold": 1802,
+            "unitPrice": 5.24,
+          },
+          Object {
+            "id": "018",
+            "name": "Malanga",
+            "sold": 5303,
+            "unitPrice": 13.18,
+          },
+          Object {
+            "id": "087",
+            "name": "Mandarin Oranges",
+            "sold": 3541,
+            "unitPrice": 7.6,
+          },
+          Object {
+            "id": "061",
+            "name": "Mangos",
+            "sold": 6664,
+            "unitPrice": 5.36,
+          },
+          Object {
+            "id": "042",
+            "name": "Mulberries",
+            "sold": 3609,
+            "unitPrice": 5.48,
+          },
+          Object {
+            "id": "075",
+            "name": "Mushrooms",
+            "sold": 6571,
+            "unitPrice": 6.32,
+          },
+          Object {
+            "id": "104",
+            "name": "Napa",
+            "sold": 6634,
+            "unitPrice": 6.94,
+          },
+          Object {
+            "id": "125",
+            "name": "Nectarines",
+            "sold": 10048,
+            "unitPrice": 14.36,
+          },
+          Object {
+            "id": "086",
+            "name": "Okra",
+            "sold": 6467,
+            "unitPrice": 13.47,
+          },
+          Object {
+            "id": "029",
+            "name": "Onion",
+            "sold": 8555,
+            "unitPrice": 7.16,
+          },
+          Object {
+            "id": "043",
+            "name": "Oranges",
+            "sold": 3587,
+            "unitPrice": 8.82,
+          },
+          Object {
+            "id": "051",
+            "name": "Papayas",
+            "sold": 3534,
+            "unitPrice": 13.07,
+          },
+          Object {
+            "id": "016",
+            "name": "Parsnip",
+            "sold": 6137,
+            "unitPrice": 12.01,
+          },
+          Object {
+            "id": "118",
+            "name": "Passion Fruit",
+            "sold": 5688,
+            "unitPrice": 12.76,
+          },
+          Object {
+            "id": "023",
+            "name": "Peaches",
+            "sold": 5058,
+            "unitPrice": 14.19,
+          },
+          Object {
+            "id": "046",
+            "name": "Pears",
+            "sold": 4061,
+            "unitPrice": 6.9,
+          },
+          Object {
+            "id": "050",
+            "name": "Peas",
+            "sold": 3081,
+            "unitPrice": 13.6,
+          },
+          Object {
+            "id": "093",
+            "name": "Peppers",
+            "sold": 2299,
+            "unitPrice": 7.87,
+          },
+          Object {
+            "id": "024",
+            "name": "Persimmons",
+            "sold": 6557,
+            "unitPrice": 11.78,
+          },
+          Object {
+            "id": "115",
+            "name": "Pineapple",
+            "sold": 6872,
+            "unitPrice": 11.28,
+          },
+          Object {
+            "id": "053",
+            "name": "Plantains",
+            "sold": 4006,
+            "unitPrice": 8.99,
+          },
+          Object {
+            "id": "017",
+            "name": "Plums",
+            "sold": 2642,
+            "unitPrice": 11.7,
+          },
+          Object {
+            "id": "045",
+            "name": "Pomegranate",
+            "sold": 3763,
+            "unitPrice": 12.11,
+          },
+          Object {
+            "id": "127",
+            "name": "Potatoes",
+            "sold": 4450,
+            "unitPrice": 9.21,
+          },
+          Object {
+            "id": "044",
+            "name": "Prickly Pear",
+            "sold": 3617,
+            "unitPrice": 14.59,
+          },
+          Object {
+            "id": "038",
+            "name": "Prunes",
+            "sold": 6166,
+            "unitPrice": 8.19,
+          },
+          Object {
+            "id": "130",
+            "name": "Pummelo",
+            "sold": 3172,
+            "unitPrice": 12.93,
+          },
+          Object {
+            "id": "097",
+            "name": "Pumpkin",
+            "sold": 4202,
+            "unitPrice": 8.66,
+          },
+          Object {
+            "id": "102",
+            "name": "Quince",
+            "sold": 4686,
+            "unitPrice": 11.23,
+          },
+          Object {
+            "id": "112",
+            "name": "Radicchio",
+            "sold": 5805,
+            "unitPrice": 11.51,
+          },
+          Object {
+            "id": "106",
+            "name": "Radishes",
+            "sold": 8042,
+            "unitPrice": 13.38,
+          },
+          Object {
+            "id": "078",
+            "name": "Raisins",
+            "sold": 1881,
+            "unitPrice": 11.49,
+          },
+          Object {
+            "id": "011",
+            "name": "Raspberries",
+            "sold": 1462,
+            "unitPrice": 7.37,
+          },
+          Object {
+            "id": "064",
+            "name": "Red Cabbage",
+            "sold": 5492,
+            "unitPrice": 8.6,
+          },
+          Object {
+            "id": "079",
+            "name": "Rhubarb",
+            "sold": 6302,
+            "unitPrice": 9.1,
+          },
+          Object {
+            "id": "085",
+            "name": "Romaine Lettuce",
+            "sold": 9600,
+            "unitPrice": 14.93,
+          },
+          Object {
+            "id": "095",
+            "name": "Rutabaga",
+            "sold": 7478,
+            "unitPrice": 8.44,
+          },
+          Object {
+            "id": "094",
+            "name": "Shallots",
+            "sold": 2721,
+            "unitPrice": 6.81,
+          },
+          Object {
+            "id": "108",
+            "name": "Snow Peas",
+            "sold": 5527,
+            "unitPrice": 7.09,
+          },
+          Object {
+            "id": "012",
+            "name": "Spinach",
+            "sold": 6088,
+            "unitPrice": 12.42,
+          },
+          Object {
+            "id": "040",
+            "name": "Sprouts",
+            "sold": 6669,
+            "unitPrice": 13.8,
+          },
+          Object {
+            "id": "088",
+            "name": "Squash",
+            "sold": 4645,
+            "unitPrice": 8,
+          },
+          Object {
+            "id": "063",
+            "name": "Strawberries",
+            "sold": 2339,
+            "unitPrice": 10.22,
+          },
+          Object {
+            "id": "124",
+            "name": "String Beans",
+            "sold": 9406,
+            "unitPrice": 9.37,
+          },
+          Object {
+            "id": "128",
+            "name": "Sweet Potato",
+            "sold": 9532,
+            "unitPrice": 12,
+          },
+          Object {
+            "id": "072",
+            "name": "Tangelo",
+            "sold": 4897,
+            "unitPrice": 11.55,
+          },
+          Object {
+            "id": "052",
+            "name": "Tangerines",
+            "sold": 6072,
+            "unitPrice": 14.38,
+          },
+          Object {
+            "id": "026",
+            "name": "Tomatillo",
+            "sold": 6387,
+            "unitPrice": 5.46,
+          },
+          Object {
+            "id": "113",
+            "name": "Tomato",
+            "sold": 3639,
+            "unitPrice": 10.26,
+          },
+          Object {
+            "id": "121",
+            "name": "Turnip",
+            "sold": 6122,
+            "unitPrice": 8.58,
+          },
+          Object {
+            "id": "049",
+            "name": "Ugli Fruit",
+            "sold": 4225,
+            "unitPrice": 7.94,
+          },
+          Object {
+            "id": "057",
+            "name": "Water Chestnuts",
+            "sold": 3830,
+            "unitPrice": 5.19,
+          },
+          Object {
+            "id": "006",
+            "name": "Watercress",
+            "sold": 4222,
+            "unitPrice": 8.39,
+          },
+          Object {
+            "id": "091",
+            "name": "Watermelon",
+            "sold": 6028,
+            "unitPrice": 10.92,
+          },
+          Object {
+            "id": "132",
+            "name": "Waxed Beans",
+            "sold": 6192,
+            "unitPrice": 5.17,
+          },
+          Object {
+            "id": "089",
+            "name": "Yams",
+            "sold": 7970,
+            "unitPrice": 7.53,
+          },
+          Object {
+            "id": "065",
+            "name": "Yellow Squash",
+            "sold": 6796,
+            "unitPrice": 10.57,
+          },
+          Object {
+            "id": "037",
+            "name": "Yuca/Cassava",
+            "sold": 11710,
+            "unitPrice": 14.86,
+          },
+          Object {
+            "id": "055",
+            "name": "Zucchini Squash",
+            "sold": 6865,
+            "unitPrice": 5.92,
+          },
+        ]
+      }
+    >
+      <tr
+        key="Alfalfa Sprouts"
+      >
+        <td>
+          Alfalfa Sprouts
+        </td>
+        <td>
+          33,395.82
+        </td>
+      </tr>
+      <tr
+        key="Apple"
+      >
+        <td>
+          Apple
+        </td>
+        <td>
+          57,722.04
+        </td>
+      </tr>
+      <tr
+        key="Apricot"
+      >
+        <td>
+          Apricot
+        </td>
+        <td>
+          68,138.70
+        </td>
+      </tr>
+      <tr
+        key="Artichoke"
+      >
+        <td>
+          Artichoke
+        </td>
+        <td>
+          11,525.15
+        </td>
+      </tr>
+      <tr
+        key="Asian Pear"
+      >
+        <td>
+          Asian Pear
+        </td>
+        <td>
+          31,625.37
+        </td>
+      </tr>
+      <tr
+        key="Asparagus"
+      >
+        <td>
+          Asparagus
+        </td>
+        <td>
+          64,750.42
+        </td>
+      </tr>
+      <tr
+        key="Atemoya"
+      >
+        <td>
+          Atemoya
+        </td>
+        <td>
+          35,468.28
+        </td>
+      </tr>
+      <tr
+        key="Avocado"
+      >
+        <td>
+          Avocado
+        </td>
+        <td>
+          32,602.50
+        </td>
+      </tr>
+      <tr
+        key="Bamboo Shoots"
+      >
+        <td>
+          Bamboo Shoots
+        </td>
+        <td>
+          31,469.76
+        </td>
+      </tr>
+      <tr
+        key="Banana"
+      >
+        <td>
+          Banana
+        </td>
+        <td>
+          32,856.04
+        </td>
+      </tr>
+      <tr
+        key="Bean Sprouts"
+      >
+        <td>
+          Bean Sprouts
+        </td>
+        <td>
+          47,808.00
+        </td>
+      </tr>
+      <tr
+        key="Beans"
+      >
+        <td>
+          Beans
+        </td>
+        <td>
+          70,890.21
+        </td>
+      </tr>
+      <tr
+        key="Beets"
+      >
+        <td>
+          Beets
+        </td>
+        <td>
+          87,899.40
+        </td>
+      </tr>
+      <tr
+        key="Belgian Endive"
+      >
+        <td>
+          Belgian Endive
+        </td>
+        <td>
+          46,831.60
+        </td>
+      </tr>
+      <tr
+        key="Bell Peppers"
+      >
+        <td>
+          Bell Peppers
+        </td>
+        <td>
+          63,941.76
+        </td>
+      </tr>
+      <tr
+        key="Bitter Melon"
+      >
+        <td>
+          Bitter Melon
+        </td>
+        <td>
+          33,749.97
+        </td>
+      </tr>
+      <tr
+        key="Blackberries"
+      >
+        <td>
+          Blackberries
+        </td>
+        <td>
+          88,462.83
+        </td>
+      </tr>
+      <tr
+        key="Blueberries"
+      >
+        <td>
+          Blueberries
+        </td>
+        <td>
+          51,798.50
+        </td>
+      </tr>
+      <tr
+        key="Bok Choy"
+      >
+        <td>
+          Bok Choy
+        </td>
+        <td>
+          51,385.10
+        </td>
+      </tr>
+      <tr
+        key="Boniato"
+      >
+        <td>
+          Boniato
+        </td>
+        <td>
+          26,734.40
+        </td>
+      </tr>
+      <tr
+        key="Boysenberries"
+      >
+        <td>
+          Boysenberries
+        </td>
+        <td>
+          48,457.44
+        </td>
+      </tr>
+      <tr
+        key="Broccoflower"
+      >
+        <td>
+          Broccoflower
+        </td>
+        <td>
+          126,635.52
+        </td>
+      </tr>
+      <tr
+        key="Broccoli"
+      >
+        <td>
+          Broccoli
+        </td>
+        <td>
+          62,388.70
+        </td>
+      </tr>
+      <tr
+        key="Brussels Sprouts"
+      >
+        <td>
+          Brussels Sprouts
+        </td>
+        <td>
+          8,306.64
+        </td>
+      </tr>
+      <tr
+        key="Cabbage"
+      >
+        <td>
+          Cabbage
+        </td>
+        <td>
+          42,316.80
+        </td>
+      </tr>
+      <tr
+        key="Cactus Pear"
+      >
+        <td>
+          Cactus Pear
+        </td>
+        <td>
+          71,154.72
+        </td>
+      </tr>
+      <tr
+        key="Cantaloupe"
+      >
+        <td>
+          Cantaloupe
+        </td>
+        <td>
+          58,980.24
+        </td>
+      </tr>
+      <tr
+        key="Carambola"
+      >
+        <td>
+          Carambola
+        </td>
+        <td>
+          19,602.07
+        </td>
+      </tr>
+      <tr
+        key="Carrots"
+      >
+        <td>
+          Carrots
+        </td>
+        <td>
+          107,716.72
+        </td>
+      </tr>
+      <tr
+        key="Casaba Melon"
+      >
+        <td>
+          Casaba Melon
+        </td>
+        <td>
+          18,325.01
+        </td>
+      </tr>
+      <tr
+        key="Cauliflower"
+      >
+        <td>
+          Cauliflower
+        </td>
+        <td>
+          32,697.42
+        </td>
+      </tr>
+      <tr
+        key="Celery"
+      >
+        <td>
+          Celery
+        </td>
+        <td>
+          29,799.90
+        </td>
+      </tr>
+      <tr
+        key="Chayote"
+      >
+        <td>
+          Chayote
+        </td>
+        <td>
+          45,508.96
+        </td>
+      </tr>
+      <tr
+        key="Cherimoya"
+      >
+        <td>
+          Cherimoya
+        </td>
+        <td>
+          46,837.89
+        </td>
+      </tr>
+      <tr
+        key="Cherries"
+      >
+        <td>
+          Cherries
+        </td>
+        <td>
+          29,440.78
+        </td>
+      </tr>
+      <tr
+        key="Coconuts"
+      >
+        <td>
+          Coconuts
+        </td>
+        <td>
+          37,154.81
+        </td>
+      </tr>
+      <tr
+        key="Collard Greens"
+      >
+        <td>
+          Collard Greens
+        </td>
+        <td>
+          37,568.64
+        </td>
+      </tr>
+      <tr
+        key="Corn"
+      >
+        <td>
+          Corn
+        </td>
+        <td>
+          27,694.32
+        </td>
+      </tr>
+      <tr
+        key="Cranberries"
+      >
+        <td>
+          Cranberries
+        </td>
+        <td>
+          100,430.82
+        </td>
+      </tr>
+      <tr
+        key="Cucumber"
+      >
+        <td>
+          Cucumber
+        </td>
+        <td>
+          43,480.14
+        </td>
+      </tr>
+      <tr
+        key="Dates"
+      >
+        <td>
+          Dates
+        </td>
+        <td>
+          58,584.80
+        </td>
+      </tr>
+      <tr
+        key="Dried Plums"
+      >
+        <td>
+          Dried Plums
+        </td>
+        <td>
+          32,348.30
+        </td>
+      </tr>
+      <tr
+        key="Eggplant"
+      >
+        <td>
+          Eggplant
+        </td>
+        <td>
+          31,654.80
+        </td>
+      </tr>
+      <tr
+        key="Endive"
+      >
+        <td>
+          Endive
+        </td>
+        <td>
+          56,476.41
+        </td>
+      </tr>
+      <tr
+        key="Escarole"
+      >
+        <td>
+          Escarole
+        </td>
+        <td>
+          15,047.53
+        </td>
+      </tr>
+      <tr
+        key="Feijoa"
+      >
+        <td>
+          Feijoa
+        </td>
+        <td>
+          54,089.70
+        </td>
+      </tr>
+      <tr
+        key="Fennel"
+      >
+        <td>
+          Fennel
+        </td>
+        <td>
+          38,885.46
+        </td>
+      </tr>
+      <tr
+        key="Figs"
+      >
+        <td>
+          Figs
+        </td>
+        <td>
+          31,304.40
+        </td>
+      </tr>
+      <tr
+        key="Garlic"
+      >
+        <td>
+          Garlic
+        </td>
+        <td>
+          41,452.32
+        </td>
+      </tr>
+      <tr
+        key="Gooseberries"
+      >
+        <td>
+          Gooseberries
+        </td>
+        <td>
+          8,188.36
+        </td>
+      </tr>
+      <tr
+        key="Grapefruit"
+      >
+        <td>
+          Grapefruit
+        </td>
+        <td>
+          73,259.56
+        </td>
+      </tr>
+      <tr
+        key="Grapes"
+      >
+        <td>
+          Grapes
+        </td>
+        <td>
+          77,157.89
+        </td>
+      </tr>
+      <tr
+        key="Green Beans"
+      >
+        <td>
+          Green Beans
+        </td>
+        <td>
+          28,501.22
+        </td>
+      </tr>
+      <tr
+        key="Green Onions"
+      >
+        <td>
+          Green Onions
+        </td>
+        <td>
+          52,701.66
+        </td>
+      </tr>
+      <tr
+        key="Greens"
+      >
+        <td>
+          Greens
+        </td>
+        <td>
+          41,068.50
+        </td>
+      </tr>
+      <tr
+        key="Guava"
+      >
+        <td>
+          Guava
+        </td>
+        <td>
+          97,573.25
+        </td>
+      </tr>
+      <tr
+        key="Hominy"
+      >
+        <td>
+          Hominy
+        </td>
+        <td>
+          15,318.20
+        </td>
+      </tr>
+      <tr
+        key="Honeydew Melon"
+      >
+        <td>
+          Honeydew Melon
+        </td>
+        <td>
+          26,285.91
+        </td>
+      </tr>
+      <tr
+        key="Horned Melon"
+      >
+        <td>
+          Horned Melon
+        </td>
+        <td>
+          24,053.92
+        </td>
+      </tr>
+      <tr
+        key="Iceberg Lettuce"
+      >
+        <td>
+          Iceberg Lettuce
+        </td>
+        <td>
+          78,537.54
+        </td>
+      </tr>
+      <tr
+        key="Jerusalem Artichoke"
+      >
+        <td>
+          Jerusalem Artichoke
+        </td>
+        <td>
+          76,926.36
+        </td>
+      </tr>
+      <tr
+        key="Jicama"
+      >
+        <td>
+          Jicama
+        </td>
+        <td>
+          38,845.80
+        </td>
+      </tr>
+      <tr
+        key="Kale"
+      >
+        <td>
+          Kale
+        </td>
+        <td>
+          25,959.04
+        </td>
+      </tr>
+      <tr
+        key="Kiwifruit"
+      >
+        <td>
+          Kiwifruit
+        </td>
+        <td>
+          110,577.80
+        </td>
+      </tr>
+      <tr
+        key="Kohlrabi"
+      >
+        <td>
+          Kohlrabi
+        </td>
+        <td>
+          57,571.29
+        </td>
+      </tr>
+      <tr
+        key="Kumquat"
+      >
+        <td>
+          Kumquat
+        </td>
+        <td>
+          29,410.32
+        </td>
+      </tr>
+      <tr
+        key="Leeks"
+      >
+        <td>
+          Leeks
+        </td>
+        <td>
+          27,995.50
+        </td>
+      </tr>
+      <tr
+        key="Lemons"
+      >
+        <td>
+          Lemons
+        </td>
+        <td>
+          58,841.83
+        </td>
+      </tr>
+      <tr
+        key="Lettuce"
+      >
+        <td>
+          Lettuce
+        </td>
+        <td>
+          23,091.96
+        </td>
+      </tr>
+      <tr
+        key="Lima Beans"
+      >
+        <td>
+          Lima Beans
+        </td>
+        <td>
+          13,336.08
+        </td>
+      </tr>
+      <tr
+        key="Limes"
+      >
+        <td>
+          Limes
+        </td>
+        <td>
+          45,183.60
+        </td>
+      </tr>
+      <tr
+        key="Longan"
+      >
+        <td>
+          Longan
+        </td>
+        <td>
+          64,126.80
+        </td>
+      </tr>
+      <tr
+        key="Loquat"
+      >
+        <td>
+          Loquat
+        </td>
+        <td>
+          15,827.40
+        </td>
+      </tr>
+      <tr
+        key="Lychee"
+      >
+        <td>
+          Lychee
+        </td>
+        <td>
+          78,172.78
+        </td>
+      </tr>
+      <tr
+        key="Madarins"
+      >
+        <td>
+          Madarins
+        </td>
+        <td>
+          9,442.48
+        </td>
+      </tr>
+      <tr
+        key="Malanga"
+      >
+        <td>
+          Malanga
+        </td>
+        <td>
+          69,893.54
+        </td>
+      </tr>
+      <tr
+        key="Mandarin Oranges"
+      >
+        <td>
+          Mandarin Oranges
+        </td>
+        <td>
+          26,911.60
+        </td>
+      </tr>
+      <tr
+        key="Mangos"
+      >
+        <td>
+          Mangos
+        </td>
+        <td>
+          35,719.04
+        </td>
+      </tr>
+      <tr
+        key="Mulberries"
+      >
+        <td>
+          Mulberries
+        </td>
+        <td>
+          19,777.32
+        </td>
+      </tr>
+      <tr
+        key="Mushrooms"
+      >
+        <td>
+          Mushrooms
+        </td>
+        <td>
+          41,528.72
+        </td>
+      </tr>
+      <tr
+        key="Napa"
+      >
+        <td>
+          Napa
+        </td>
+        <td>
+          46,039.96
+        </td>
+      </tr>
+      <tr
+        key="Nectarines"
+      >
+        <td>
+          Nectarines
+        </td>
+        <td>
+          144,289.28
+        </td>
+      </tr>
+      <tr
+        key="Okra"
+      >
+        <td>
+          Okra
+        </td>
+        <td>
+          87,110.49
+        </td>
+      </tr>
+      <tr
+        key="Onion"
+      >
+        <td>
+          Onion
+        </td>
+        <td>
+          61,253.80
+        </td>
+      </tr>
+      <tr
+        key="Oranges"
+      >
+        <td>
+          Oranges
+        </td>
+        <td>
+          31,637.34
+        </td>
+      </tr>
+      <tr
+        key="Papayas"
+      >
+        <td>
+          Papayas
+        </td>
+        <td>
+          46,189.38
+        </td>
+      </tr>
+      <tr
+        key="Parsnip"
+      >
+        <td>
+          Parsnip
+        </td>
+        <td>
+          73,705.37
+        </td>
+      </tr>
+      <tr
+        key="Passion Fruit"
+      >
+        <td>
+          Passion Fruit
+        </td>
+        <td>
+          72,578.88
+        </td>
+      </tr>
+      <tr
+        key="Peaches"
+      >
+        <td>
+          Peaches
+        </td>
+        <td>
+          71,773.02
+        </td>
+      </tr>
+      <tr
+        key="Pears"
+      >
+        <td>
+          Pears
+        </td>
+        <td>
+          28,020.90
+        </td>
+      </tr>
+      <tr
+        key="Peas"
+      >
+        <td>
+          Peas
+        </td>
+        <td>
+          41,901.60
+        </td>
+      </tr>
+      <tr
+        key="Peppers"
+      >
+        <td>
+          Peppers
+        </td>
+        <td>
+          18,093.13
+        </td>
+      </tr>
+      <tr
+        key="Persimmons"
+      >
+        <td>
+          Persimmons
+        </td>
+        <td>
+          77,241.46
+        </td>
+      </tr>
+      <tr
+        key="Pineapple"
+      >
+        <td>
+          Pineapple
+        </td>
+        <td>
+          77,516.16
+        </td>
+      </tr>
+      <tr
+        key="Plantains"
+      >
+        <td>
+          Plantains
+        </td>
+        <td>
+          36,013.94
+        </td>
+      </tr>
+      <tr
+        key="Plums"
+      >
+        <td>
+          Plums
+        </td>
+        <td>
+          30,911.40
+        </td>
+      </tr>
+      <tr
+        key="Pomegranate"
+      >
+        <td>
+          Pomegranate
+        </td>
+        <td>
+          45,569.93
+        </td>
+      </tr>
+      <tr
+        key="Potatoes"
+      >
+        <td>
+          Potatoes
+        </td>
+        <td>
+          40,984.50
+        </td>
+      </tr>
+      <tr
+        key="Prickly Pear"
+      >
+        <td>
+          Prickly Pear
+        </td>
+        <td>
+          52,772.03
+        </td>
+      </tr>
+      <tr
+        key="Prunes"
+      >
+        <td>
+          Prunes
+        </td>
+        <td>
+          50,499.54
+        </td>
+      </tr>
+      <tr
+        key="Pummelo"
+      >
+        <td>
+          Pummelo
+        </td>
+        <td>
+          41,013.96
+        </td>
+      </tr>
+      <tr
+        key="Pumpkin"
+      >
+        <td>
+          Pumpkin
+        </td>
+        <td>
+          36,389.32
+        </td>
+      </tr>
+      <tr
+        key="Quince"
+      >
+        <td>
+          Quince
+        </td>
+        <td>
+          52,623.78
+        </td>
+      </tr>
+      <tr
+        key="Radicchio"
+      >
+        <td>
+          Radicchio
+        </td>
+        <td>
+          66,815.55
+        </td>
+      </tr>
+      <tr
+        key="Radishes"
+      >
+        <td>
+          Radishes
+        </td>
+        <td>
+          107,601.96
+        </td>
+      </tr>
+      <tr
+        key="Raisins"
+      >
+        <td>
+          Raisins
+        </td>
+        <td>
+          21,612.69
+        </td>
+      </tr>
+      <tr
+        key="Raspberries"
+      >
+        <td>
+          Raspberries
+        </td>
+        <td>
+          10,774.94
+        </td>
+      </tr>
+      <tr
+        key="Red Cabbage"
+      >
+        <td>
+          Red Cabbage
+        </td>
+        <td>
+          47,231.20
+        </td>
+      </tr>
+      <tr
+        key="Rhubarb"
+      >
+        <td>
+          Rhubarb
+        </td>
+        <td>
+          57,348.20
+        </td>
+      </tr>
+      <tr
+        key="Romaine Lettuce"
+      >
+        <td>
+          Romaine Lettuce
+        </td>
+        <td>
+          143,328.00
+        </td>
+      </tr>
+      <tr
+        key="Rutabaga"
+      >
+        <td>
+          Rutabaga
+        </td>
+        <td>
+          63,114.32
+        </td>
+      </tr>
+      <tr
+        key="Shallots"
+      >
+        <td>
+          Shallots
+        </td>
+        <td>
+          18,530.01
+        </td>
+      </tr>
+      <tr
+        key="Snow Peas"
+      >
+        <td>
+          Snow Peas
+        </td>
+        <td>
+          39,186.43
+        </td>
+      </tr>
+      <tr
+        key="Spinach"
+      >
+        <td>
+          Spinach
+        </td>
+        <td>
+          75,612.96
+        </td>
+      </tr>
+      <tr
+        key="Sprouts"
+      >
+        <td>
+          Sprouts
+        </td>
+        <td>
+          92,032.20
+        </td>
+      </tr>
+      <tr
+        key="Squash"
+      >
+        <td>
+          Squash
+        </td>
+        <td>
+          37,160.00
+        </td>
+      </tr>
+      <tr
+        key="Strawberries"
+      >
+        <td>
+          Strawberries
+        </td>
+        <td>
+          23,904.58
+        </td>
+      </tr>
+      <tr
+        key="String Beans"
+      >
+        <td>
+          String Beans
+        </td>
+        <td>
+          88,134.22
+        </td>
+      </tr>
+      <tr
+        key="Sweet Potato"
+      >
+        <td>
+          Sweet Potato
+        </td>
+        <td>
+          114,384.00
+        </td>
+      </tr>
+      <tr
+        key="Tangelo"
+      >
+        <td>
+          Tangelo
+        </td>
+        <td>
+          56,560.35
+        </td>
+      </tr>
+      <tr
+        key="Tangerines"
+      >
+        <td>
+          Tangerines
+        </td>
+        <td>
+          87,315.36
+        </td>
+      </tr>
+      <tr
+        key="Tomatillo"
+      >
+        <td>
+          Tomatillo
+        </td>
+        <td>
+          34,873.02
+        </td>
+      </tr>
+      <tr
+        key="Tomato"
+      >
+        <td>
+          Tomato
+        </td>
+        <td>
+          37,336.14
+        </td>
+      </tr>
+      <tr
+        key="Turnip"
+      >
+        <td>
+          Turnip
+        </td>
+        <td>
+          52,526.76
+        </td>
+      </tr>
+      <tr
+        key="Ugli Fruit"
+      >
+        <td>
+          Ugli Fruit
+        </td>
+        <td>
+          33,546.50
+        </td>
+      </tr>
+      <tr
+        key="Water Chestnuts"
+      >
+        <td>
+          Water Chestnuts
+        </td>
+        <td>
+          19,877.70
+        </td>
+      </tr>
+      <tr
+        key="Watercress"
+      >
+        <td>
+          Watercress
+        </td>
+        <td>
+          35,422.58
+        </td>
+      </tr>
+      <tr
+        key="Watermelon"
+      >
+        <td>
+          Watermelon
+        </td>
+        <td>
+          65,825.76
+        </td>
+      </tr>
+      <tr
+        key="Waxed Beans"
+      >
+        <td>
+          Waxed Beans
+        </td>
+        <td>
+          32,012.64
+        </td>
+      </tr>
+      <tr
+        key="Yams"
+      >
+        <td>
+          Yams
+        </td>
+        <td>
+          60,014.10
+        </td>
+      </tr>
+      <tr
+        key="Yellow Squash"
+      >
+        <td>
+          Yellow Squash
+        </td>
+        <td>
+          71,833.72
+        </td>
+      </tr>
+      <tr
+        key="Yuca/Cassava"
+      >
+        <td>
+          Yuca/Cassava
+        </td>
+        <td>
+          174,010.60
+        </td>
+      </tr>
+      <tr
+        key="Zucchini Squash"
+      >
+        <td>
+          Zucchini Squash
+        </td>
+        <td>
+          40,640.80
+        </td>
+      </tr>
+    </ProductItem>
+  </tbody>
+  <tfoot>
+    <tr>
+      <td>
+        Total
+      </td>
+      <td>
+        6,787,878.84
+      </td>
+    </tr>
+  </tfoot>
+</table>
+`;
