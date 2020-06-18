@@ -17,7 +17,7 @@ export function App() {
 
   const fetchProducts = (branches: any) => {
     Promise.all(branches.map((url: string) =>
-      fetch(url).then(resp => resp.json())
+      fetch(url).then(resp => resp.json()).catch(err => console.log(err))
     )).then(response => {
       let tempProducts: Product[] = [];
       response.map((branch: any) => {
@@ -36,7 +36,7 @@ export function App() {
       setTotal(calculateRevenue(tempProducts));
       setProducts([...tempProducts])
       setFilteredProducts([...tempProducts]);
-    });
+    }).catch(err => console.log(err));
   }
 
   const calculateRevenue = (products: Product[]) => {
