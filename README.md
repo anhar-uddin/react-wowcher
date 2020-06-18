@@ -28,3 +28,11 @@ Follow these steps to setup the app:
  - No need to make branch loading dynamic, you can hardcode the json names
  - No need to display partial data, you can wait for all data to load
  - Make sure you are happy with the complete solution and it is done to the best of your ability
+
+# Developer notes
+
+I decided to make a few changed to the application, the first was changing the app to use typescript. I also wanted to use ReactJs Hooks, I changed the app to use a more functional approach. 
+
+Things I would’ve done better: 
+
+I would have used react-redux as a state manager for the app, if the app was to grow access to the state from other components would be managed better. However, the README stated not to use external libraries and for that reason I didn’t implement redux. 

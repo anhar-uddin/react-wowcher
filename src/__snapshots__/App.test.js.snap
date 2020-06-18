@@ -19,799 +19,799 @@ exports[`renders table that is sorted ascending 1`] = `
           Object {
             "id": "082",
             "name": "Alfalfa Sprouts",
-            "sold": 2958,
+            "sold": 1106,
             "unitPrice": 11.29,
           },
           Object {
             "id": "027",
             "name": "Apple",
-            "sold": 5884,
+            "sold": 1512,
             "unitPrice": 9.81,
           },
           Object {
             "id": "048",
             "name": "Apricot",
-            "sold": 4970,
+            "sold": 1506,
             "unitPrice": 13.71,
           },
           Object {
             "id": "068",
             "name": "Artichoke",
-            "sold": 1547,
+            "sold": 651,
             "unitPrice": 7.45,
           },
           Object {
             "id": "110",
             "name": "Asian Pear",
-            "sold": 5193,
+            "sold": 1905,
             "unitPrice": 6.09,
           },
           Object {
             "id": "070",
             "name": "Asparagus",
-            "sold": 4438,
+            "sold": 1378,
             "unitPrice": 14.59,
           },
           Object {
             "id": "041",
             "name": "Atemoya",
-            "sold": 6642,
+            "sold": 2090,
             "unitPrice": 5.34,
           },
           Object {
             "id": "013",
             "name": "Avocado",
-            "sold": 4347,
+            "sold": 1179,
             "unitPrice": 7.5,
           },
           Object {
             "id": "054",
             "name": "Bamboo Shoots",
-            "sold": 3568,
+            "sold": 1280,
             "unitPrice": 8.82,
           },
           Object {
             "id": "067",
             "name": "Banana",
-            "sold": 3031,
+            "sold": 1003,
             "unitPrice": 10.84,
           },
           Object {
             "id": "120",
             "name": "Bean Sprouts",
-            "sold": 3600,
+            "sold": 1252,
             "unitPrice": 13.28,
           },
           Object {
             "id": "107",
             "name": "Beans",
-            "sold": 5017,
+            "sold": 1541,
             "unitPrice": 14.13,
           },
           Object {
             "id": "111",
             "name": "Beets",
-            "sold": 6234,
+            "sold": 1810,
             "unitPrice": 14.1,
           },
           Object {
             "id": "034",
             "name": "Belgian Endive",
-            "sold": 8245,
+            "sold": 2585,
             "unitPrice": 5.68,
           },
           Object {
             "id": "129",
             "name": "Bell Peppers",
-            "sold": 5224,
+            "sold": 1984,
             "unitPrice": 12.24,
           },
           Object {
             "id": "020",
             "name": "Bitter Melon",
-            "sold": 2829,
+            "sold": 1433,
             "unitPrice": 11.93,
           },
           Object {
             "id": "083",
             "name": "Blackberries",
-            "sold": 6519,
+            "sold": 2111,
             "unitPrice": 13.57,
           },
           Object {
             "id": "035",
             "name": "Blueberries",
-            "sold": 6130,
+            "sold": 1486,
             "unitPrice": 8.45,
           },
           Object {
             "id": "000",
             "name": "Bok Choy",
-            "sold": 3770,
+            "sold": 1486,
             "unitPrice": 13.63,
           },
           Object {
             "id": "001",
             "name": "Boniato",
-            "sold": 2480,
+            "sold": 844,
             "unitPrice": 10.78,
           },
           Object {
             "id": "059",
             "name": "Boysenberries",
-            "sold": 3739,
+            "sold": 991,
             "unitPrice": 12.96,
           },
           Object {
             "id": "073",
             "name": "Broccoflower",
-            "sold": 8994,
+            "sold": 2390,
             "unitPrice": 14.08,
           },
           Object {
             "id": "062",
             "name": "Broccoli",
-            "sold": 6595,
+            "sold": 2055,
             "unitPrice": 9.46,
           },
           Object {
             "id": "060",
             "name": "Brussels Sprouts",
-            "sold": 1494,
+            "sold": 678,
             "unitPrice": 5.56,
           },
           Object {
             "id": "080",
             "name": "Cabbage",
-            "sold": 7424,
+            "sold": 2020,
             "unitPrice": 5.7,
           },
           Object {
             "id": "039",
             "name": "Cactus Pear",
-            "sold": 4914,
+            "sold": 1466,
             "unitPrice": 14.48,
           },
           Object {
             "id": "105",
             "name": "Cantaloupe",
-            "sold": 5416,
+            "sold": 1364,
             "unitPrice": 10.89,
           },
           Object {
             "id": "010",
             "name": "Carambola",
-            "sold": 2423,
+            "sold": 1211,
             "unitPrice": 8.09,
           },
           Object {
             "id": "119",
             "name": "Carrots",
-            "sold": 7783,
+            "sold": 2131,
             "unitPrice": 13.84,
           },
           Object {
             "id": "003",
             "name": "Casaba Melon",
-            "sold": 2731,
+            "sold": 927,
             "unitPrice": 6.71,
           },
           Object {
             "id": "056",
             "name": "Cauliflower",
-            "sold": 4291,
+            "sold": 1423,
             "unitPrice": 7.62,
           },
           Object {
             "id": "008",
             "name": "Celery",
-            "sold": 5265,
+            "sold": 1717,
             "unitPrice": 5.66,
           },
           Object {
             "id": "077",
             "name": "Chayote",
-            "sold": 3178,
+            "sold": 1418,
             "unitPrice": 14.32,
           },
           Object {
             "id": "066",
             "name": "Cherimoya",
-            "sold": 6171,
+            "sold": 2019,
             "unitPrice": 7.59,
           },
           Object {
             "id": "100",
             "name": "Cherries",
-            "sold": 4703,
+            "sold": 1199,
             "unitPrice": 6.26,
           },
           Object {
             "id": "131",
             "name": "Coconuts",
-            "sold": 5621,
+            "sold": 1373,
             "unitPrice": 6.61,
           },
           Object {
             "id": "030",
             "name": "Collard Greens",
-            "sold": 3264,
+            "sold": 1456,
             "unitPrice": 11.51,
           },
           Object {
             "id": "015",
             "name": "Corn",
-            "sold": 3592,
+            "sold": 1224,
             "unitPrice": 7.71,
           },
           Object {
             "id": "058",
             "name": "Cranberries",
-            "sold": 8802,
+            "sold": 2534,
             "unitPrice": 11.41,
           },
           Object {
             "id": "101",
             "name": "Cucumber",
-            "sold": 3498,
+            "sold": 974,
             "unitPrice": 12.43,
           },
           Object {
             "id": "117",
             "name": "Dates",
-            "sold": 4372,
+            "sold": 1404,
             "unitPrice": 13.4,
           },
           Object {
             "id": "019",
             "name": "Dried Plums",
-            "sold": 5303,
+            "sold": 1643,
             "unitPrice": 6.1,
           },
           Object {
             "id": "005",
             "name": "Eggplant",
-            "sold": 3908,
+            "sold": 1256,
             "unitPrice": 8.1,
           },
           Object {
             "id": "009",
             "name": "Endive",
-            "sold": 3903,
+            "sold": 1083,
             "unitPrice": 14.47,
           },
           Object {
             "id": "032",
             "name": "Escarole",
-            "sold": 2479,
+            "sold": 1391,
             "unitPrice": 6.07,
           },
           Object {
             "id": "109",
             "name": "Feijoa",
-            "sold": 9030,
+            "sold": 2006,
             "unitPrice": 5.99,
           },
           Object {
             "id": "103",
             "name": "Fennel",
-            "sold": 3414,
+            "sold": 1130,
             "unitPrice": 11.39,
           },
           Object {
             "id": "074",
             "name": "Figs",
-            "sold": 2280,
+            "sold": 1032,
             "unitPrice": 13.73,
           },
           Object {
             "id": "122",
             "name": "Garlic",
-            "sold": 4088,
+            "sold": 1664,
             "unitPrice": 10.14,
           },
           Object {
             "id": "099",
             "name": "Gooseberries",
-            "sold": 1522,
+            "sold": 554,
             "unitPrice": 5.38,
           },
           Object {
             "id": "116",
             "name": "Grapefruit",
-            "sold": 7348,
+            "sold": 2076,
             "unitPrice": 9.97,
           },
           Object {
             "id": "021",
             "name": "Grapes",
-            "sold": 5407,
+            "sold": 1847,
             "unitPrice": 14.27,
           },
           Object {
             "id": "002",
             "name": "Green Beans",
-            "sold": 3883,
+            "sold": 1571,
             "unitPrice": 7.34,
           },
           Object {
             "id": "031",
             "name": "Green Onions",
-            "sold": 8514,
+            "sold": 2510,
             "unitPrice": 6.19,
           },
           Object {
             "id": "123",
             "name": "Greens",
-            "sold": 6270,
+            "sold": 1698,
             "unitPrice": 6.55,
           },
           Object {
             "id": "069",
             "name": "Guava",
-            "sold": 7045,
+            "sold": 2037,
             "unitPrice": 13.85,
           },
           Object {
             "id": "098",
             "name": "Hominy",
-            "sold": 2005,
+            "sold": 1189,
             "unitPrice": 7.64,
           },
           Object {
             "id": "096",
             "name": "Honeydew Melon",
-            "sold": 3383,
+            "sold": 1359,
             "unitPrice": 7.77,
           },
           Object {
             "id": "092",
             "name": "Horned Melon",
-            "sold": 2768,
+            "sold": 756,
             "unitPrice": 8.69,
           },
           Object {
             "id": "004",
             "name": "Iceberg Lettuce",
-            "sold": 6046,
+            "sold": 1622,
             "unitPrice": 12.99,
           },
           Object {
             "id": "022",
             "name": "Jerusalem Artichoke",
-            "sold": 5387,
+            "sold": 1975,
             "unitPrice": 14.28,
           },
           Object {
             "id": "007",
             "name": "Jicama",
-            "sold": 6166,
+            "sold": 2134,
             "unitPrice": 6.3,
           },
           Object {
             "id": "114",
             "name": "Kale",
-            "sold": 3452,
+            "sold": 1188,
             "unitPrice": 7.52,
           },
           Object {
             "id": "025",
             "name": "Kiwifruit",
-            "sold": 9371,
+            "sold": 2807,
             "unitPrice": 11.8,
           },
           Object {
             "id": "033",
             "name": "Kohlrabi",
-            "sold": 5229,
+            "sold": 1989,
             "unitPrice": 11.01,
           },
           Object {
             "id": "036",
             "name": "Kumquat",
-            "sold": 2077,
+            "sold": 937,
             "unitPrice": 14.16,
           },
           Object {
             "id": "028",
             "name": "Leeks",
-            "sold": 2950,
+            "sold": 766,
             "unitPrice": 9.49,
           },
           Object {
             "id": "126",
             "name": "Lemons",
-            "sold": 9011,
+            "sold": 2719,
             "unitPrice": 6.53,
           },
           Object {
             "id": "071",
             "name": "Lettuce",
-            "sold": 2901,
+            "sold": 1261,
             "unitPrice": 7.96,
           },
           Object {
             "id": "084",
             "name": "Lima Beans",
-            "sold": 2456,
+            "sold": 676,
             "unitPrice": 5.43,
           },
           Object {
             "id": "076",
             "name": "Limes",
-            "sold": 3912,
+            "sold": 1360,
             "unitPrice": 11.55,
           },
           Object {
             "id": "081",
             "name": "Longan",
-            "sold": 8460,
+            "sold": 2440,
             "unitPrice": 7.58,
           },
           Object {
             "id": "090",
             "name": "Loquat",
-            "sold": 1620,
+            "sold": 584,
             "unitPrice": 9.77,
           },
           Object {
             "id": "047",
             "name": "Lychee",
-            "sold": 7649,
+            "sold": 2053,
             "unitPrice": 10.22,
           },
           Object {
             "id": "014",
             "name": "Madarins",
-            "sold": 1802,
+            "sold": 906,
             "unitPrice": 5.24,
           },
           Object {
             "id": "018",
             "name": "Malanga",
-            "sold": 5303,
+            "sold": 1395,
             "unitPrice": 13.18,
           },
           Object {
             "id": "087",
             "name": "Mandarin Oranges",
-            "sold": 3541,
+            "sold": 1629,
             "unitPrice": 7.6,
           },
           Object {
             "id": "061",
             "name": "Mangos",
-            "sold": 6664,
+            "sold": 2048,
             "unitPrice": 5.36,
           },
           Object {
             "id": "042",
             "name": "Mulberries",
-            "sold": 3609,
+            "sold": 1677,
             "unitPrice": 5.48,
           },
           Object {
             "id": "075",
             "name": "Mushrooms",
-            "sold": 6571,
+            "sold": 1987,
             "unitPrice": 6.32,
           },
           Object {
             "id": "104",
             "name": "Napa",
-            "sold": 6634,
+            "sold": 2174,
             "unitPrice": 6.94,
           },
           Object {
             "id": "125",
             "name": "Nectarines",
-            "sold": 10048,
+            "sold": 2208,
             "unitPrice": 14.36,
           },
           Object {
             "id": "086",
             "name": "Okra",
-            "sold": 6467,
+            "sold": 1543,
             "unitPrice": 13.47,
           },
           Object {
             "id": "029",
             "name": "Onion",
-            "sold": 8555,
+            "sold": 2219,
             "unitPrice": 7.16,
           },
           Object {
             "id": "043",
             "name": "Oranges",
-            "sold": 3587,
+            "sold": 1199,
             "unitPrice": 8.82,
           },
           Object {
             "id": "051",
             "name": "Papayas",
-            "sold": 3534,
+            "sold": 1482,
             "unitPrice": 13.07,
           },
           Object {
             "id": "016",
             "name": "Parsnip",
-            "sold": 6137,
+            "sold": 1465,
             "unitPrice": 12.01,
           },
           Object {
             "id": "118",
             "name": "Passion Fruit",
-            "sold": 5688,
+            "sold": 1692,
             "unitPrice": 12.76,
           },
           Object {
             "id": "023",
             "name": "Peaches",
-            "sold": 5058,
+            "sold": 1322,
             "unitPrice": 14.19,
           },
           Object {
             "id": "046",
             "name": "Pears",
-            "sold": 4061,
+            "sold": 1497,
             "unitPrice": 6.9,
           },
           Object {
             "id": "050",
             "name": "Peas",
-            "sold": 3081,
+            "sold": 1321,
             "unitPrice": 13.6,
           },
           Object {
             "id": "093",
             "name": "Peppers",
-            "sold": 2299,
+            "sold": 1123,
             "unitPrice": 7.87,
           },
           Object {
             "id": "024",
             "name": "Persimmons",
-            "sold": 6557,
+            "sold": 2081,
             "unitPrice": 11.78,
           },
           Object {
             "id": "115",
             "name": "Pineapple",
-            "sold": 6872,
+            "sold": 2080,
             "unitPrice": 11.28,
           },
           Object {
             "id": "053",
             "name": "Plantains",
-            "sold": 4006,
+            "sold": 1110,
             "unitPrice": 8.99,
           },
           Object {
             "id": "017",
             "name": "Plums",
-            "sold": 2642,
+            "sold": 1138,
             "unitPrice": 11.7,
           },
           Object {
             "id": "045",
             "name": "Pomegranate",
-            "sold": 3763,
+            "sold": 1119,
             "unitPrice": 12.11,
           },
           Object {
             "id": "127",
             "name": "Potatoes",
-            "sold": 4450,
+            "sold": 1174,
             "unitPrice": 9.21,
           },
           Object {
             "id": "044",
             "name": "Prickly Pear",
-            "sold": 3617,
+            "sold": 1201,
             "unitPrice": 14.59,
           },
           Object {
             "id": "038",
             "name": "Prunes",
-            "sold": 6166,
+            "sold": 1666,
             "unitPrice": 8.19,
           },
           Object {
             "id": "130",
             "name": "Pummelo",
-            "sold": 3172,
+            "sold": 1580,
             "unitPrice": 12.93,
           },
           Object {
             "id": "097",
             "name": "Pumpkin",
-            "sold": 4202,
+            "sold": 1218,
             "unitPrice": 8.66,
           },
           Object {
             "id": "102",
             "name": "Quince",
-            "sold": 4686,
+            "sold": 1358,
             "unitPrice": 11.23,
           },
           Object {
             "id": "112",
             "name": "Radicchio",
-            "sold": 5805,
+            "sold": 1777,
             "unitPrice": 11.51,
           },
           Object {
             "id": "106",
             "name": "Radishes",
-            "sold": 8042,
+            "sold": 2246,
             "unitPrice": 13.38,
           },
           Object {
             "id": "078",
             "name": "Raisins",
-            "sold": 1881,
+            "sold": 645,
             "unitPrice": 11.49,
           },
           Object {
             "id": "011",
             "name": "Raspberries",
-            "sold": 1462,
+            "sold": 586,
             "unitPrice": 7.37,
           },
           Object {
             "id": "064",
             "name": "Red Cabbage",
-            "sold": 5492,
+            "sold": 1396,
             "unitPrice": 8.6,
           },
           Object {
             "id": "079",
             "name": "Rhubarb",
-            "sold": 6302,
+            "sold": 1638,
             "unitPrice": 9.1,
           },
           Object {
             "id": "085",
             "name": "Romaine Lettuce",
-            "sold": 9600,
+            "sold": 2196,
             "unitPrice": 14.93,
           },
           Object {
             "id": "095",
             "name": "Rutabaga",
-            "sold": 7478,
+            "sold": 2198,
             "unitPrice": 8.44,
           },
           Object {
             "id": "094",
             "name": "Shallots",
-            "sold": 2721,
+            "sold": 957,
             "unitPrice": 6.81,
           },
           Object {
             "id": "108",
             "name": "Snow Peas",
-            "sold": 5527,
+            "sold": 1691,
             "unitPrice": 7.09,
           },
           Object {
             "id": "012",
             "name": "Spinach",
-            "sold": 6088,
+            "sold": 1596,
             "unitPrice": 12.42,
           },
           Object {
             "id": "040",
             "name": "Sprouts",
-            "sold": 6669,
+            "sold": 1961,
             "unitPrice": 13.8,
           },
           Object {
             "id": "088",
             "name": "Squash",
-            "sold": 4645,
+            "sold": 1885,
             "unitPrice": 8,
           },
           Object {
             "id": "063",
             "name": "Strawberries",
-            "sold": 2339,
+            "sold": 1143,
             "unitPrice": 10.22,
           },
           Object {
             "id": "124",
             "name": "String Beans",
-            "sold": 9406,
+            "sold": 2426,
             "unitPrice": 9.37,
           },
           Object {
             "id": "128",
             "name": "Sweet Potato",
-            "sold": 9532,
+            "sold": 2640,
             "unitPrice": 12,
           },
           Object {
             "id": "072",
             "name": "Tangelo",
-            "sold": 4897,
+            "sold": 1717,
             "unitPrice": 11.55,
           },
           Object {
             "id": "052",
             "name": "Tangerines",
-            "sold": 6072,
+            "sold": 2048,
             "unitPrice": 14.38,
           },
           Object {
             "id": "026",
             "name": "Tomatillo",
-            "sold": 6387,
+            "sold": 1751,
             "unitPrice": 5.46,
           },
           Object {
             "id": "113",
             "name": "Tomato",
-            "sold": 3639,
+            "sold": 1415,
             "unitPrice": 10.26,
           },
           Object {
             "id": "121",
             "name": "Turnip",
-            "sold": 6122,
+            "sold": 1814,
             "unitPrice": 8.58,
           },
           Object {
             "id": "049",
             "name": "Ugli Fruit",
-            "sold": 4225,
+            "sold": 1365,
             "unitPrice": 7.94,
           },
           Object {
             "id": "057",
             "name": "Water Chestnuts",
-            "sold": 3830,
+            "sold": 1514,
             "unitPrice": 5.19,
           },
           Object {
             "id": "006",
             "name": "Watercress",
-            "sold": 4222,
+            "sold": 1626,
             "unitPrice": 8.39,
           },
           Object {
             "id": "091",
             "name": "Watermelon",
-            "sold": 6028,
+            "sold": 1760,
             "unitPrice": 10.92,
           },
           Object {
             "id": "132",
             "name": "Waxed Beans",
-            "sold": 6192,
+            "sold": 1764,
             "unitPrice": 5.17,
           },
           Object {
             "id": "089",
             "name": "Yams",
-            "sold": 7970,
+            "sold": 1822,
             "unitPrice": 7.53,
           },
           Object {
             "id": "065",
             "name": "Yellow Squash",
-            "sold": 6796,
+            "sold": 2236,
             "unitPrice": 10.57,
           },
           Object {
             "id": "037",
             "name": "Yuca/Cassava",
-            "sold": 11710,
+            "sold": 2994,
             "unitPrice": 14.86,
           },
           Object {
             "id": "055",
             "name": "Zucchini Squash",
-            "sold": 6865,
+            "sold": 2209,
             "unitPrice": 5.92,
           },
         ]
@@ -824,7 +824,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Alfalfa Sprouts
         </td>
         <td>
-          33,395.82
+          12,486.74
         </td>
       </tr>
       <tr
@@ -834,7 +834,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Apple
         </td>
         <td>
-          57,722.04
+          14,832.72
         </td>
       </tr>
       <tr
@@ -844,7 +844,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Apricot
         </td>
         <td>
-          68,138.70
+          20,647.26
         </td>
       </tr>
       <tr
@@ -854,7 +854,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Artichoke
         </td>
         <td>
-          11,525.15
+          4,849.95
         </td>
       </tr>
       <tr
@@ -864,7 +864,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Asian Pear
         </td>
         <td>
-          31,625.37
+          11,601.45
         </td>
       </tr>
       <tr
@@ -874,7 +874,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Asparagus
         </td>
         <td>
-          64,750.42
+          20,105.02
         </td>
       </tr>
       <tr
@@ -884,7 +884,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Atemoya
         </td>
         <td>
-          35,468.28
+          11,160.60
         </td>
       </tr>
       <tr
@@ -894,7 +894,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Avocado
         </td>
         <td>
-          32,602.50
+          8,842.50
         </td>
       </tr>
       <tr
@@ -904,7 +904,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Bamboo Shoots
         </td>
         <td>
-          31,469.76
+          11,289.60
         </td>
       </tr>
       <tr
@@ -914,7 +914,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Banana
         </td>
         <td>
-          32,856.04
+          10,872.52
         </td>
       </tr>
       <tr
@@ -924,7 +924,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Bean Sprouts
         </td>
         <td>
-          47,808.00
+          16,626.56
         </td>
       </tr>
       <tr
@@ -934,7 +934,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Beans
         </td>
         <td>
-          70,890.21
+          21,774.33
         </td>
       </tr>
       <tr
@@ -944,7 +944,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Beets
         </td>
         <td>
-          87,899.40
+          25,521.00
         </td>
       </tr>
       <tr
@@ -954,7 +954,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Belgian Endive
         </td>
         <td>
-          46,831.60
+          14,682.80
         </td>
       </tr>
       <tr
@@ -964,7 +964,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Bell Peppers
         </td>
         <td>
-          63,941.76
+          24,284.16
         </td>
       </tr>
       <tr
@@ -974,7 +974,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Bitter Melon
         </td>
         <td>
-          33,749.97
+          17,095.69
         </td>
       </tr>
       <tr
@@ -984,7 +984,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Blackberries
         </td>
         <td>
-          88,462.83
+          28,646.27
         </td>
       </tr>
       <tr
@@ -994,7 +994,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Blueberries
         </td>
         <td>
-          51,798.50
+          12,556.70
         </td>
       </tr>
       <tr
@@ -1004,7 +1004,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Bok Choy
         </td>
         <td>
-          51,385.10
+          20,254.18
         </td>
       </tr>
       <tr
@@ -1014,7 +1014,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Boniato
         </td>
         <td>
-          26,734.40
+          9,098.32
         </td>
       </tr>
       <tr
@@ -1024,7 +1024,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Boysenberries
         </td>
         <td>
-          48,457.44
+          12,843.36
         </td>
       </tr>
       <tr
@@ -1034,7 +1034,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Broccoflower
         </td>
         <td>
-          126,635.52
+          33,651.20
         </td>
       </tr>
       <tr
@@ -1044,7 +1044,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Broccoli
         </td>
         <td>
-          62,388.70
+          19,440.30
         </td>
       </tr>
       <tr
@@ -1054,7 +1054,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Brussels Sprouts
         </td>
         <td>
-          8,306.64
+          3,769.68
         </td>
       </tr>
       <tr
@@ -1064,7 +1064,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Cabbage
         </td>
         <td>
-          42,316.80
+          11,514.00
         </td>
       </tr>
       <tr
@@ -1074,7 +1074,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Cactus Pear
         </td>
         <td>
-          71,154.72
+          21,227.68
         </td>
       </tr>
       <tr
@@ -1084,7 +1084,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Cantaloupe
         </td>
         <td>
-          58,980.24
+          14,853.96
         </td>
       </tr>
       <tr
@@ -1094,7 +1094,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Carambola
         </td>
         <td>
-          19,602.07
+          9,796.99
         </td>
       </tr>
       <tr
@@ -1104,7 +1104,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Carrots
         </td>
         <td>
-          107,716.72
+          29,493.04
         </td>
       </tr>
       <tr
@@ -1114,7 +1114,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Casaba Melon
         </td>
         <td>
-          18,325.01
+          6,220.17
         </td>
       </tr>
       <tr
@@ -1124,7 +1124,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Cauliflower
         </td>
         <td>
-          32,697.42
+          10,843.26
         </td>
       </tr>
       <tr
@@ -1134,7 +1134,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Celery
         </td>
         <td>
-          29,799.90
+          9,718.22
         </td>
       </tr>
       <tr
@@ -1144,7 +1144,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Chayote
         </td>
         <td>
-          45,508.96
+          20,305.76
         </td>
       </tr>
       <tr
@@ -1154,7 +1154,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Cherimoya
         </td>
         <td>
-          46,837.89
+          15,324.21
         </td>
       </tr>
       <tr
@@ -1164,7 +1164,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Cherries
         </td>
         <td>
-          29,440.78
+          7,505.74
         </td>
       </tr>
       <tr
@@ -1174,7 +1174,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Coconuts
         </td>
         <td>
-          37,154.81
+          9,075.53
         </td>
       </tr>
       <tr
@@ -1184,7 +1184,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Collard Greens
         </td>
         <td>
-          37,568.64
+          16,758.56
         </td>
       </tr>
       <tr
@@ -1194,7 +1194,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Corn
         </td>
         <td>
-          27,694.32
+          9,437.04
         </td>
       </tr>
       <tr
@@ -1204,7 +1204,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Cranberries
         </td>
         <td>
-          100,430.82
+          28,912.94
         </td>
       </tr>
       <tr
@@ -1214,7 +1214,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Cucumber
         </td>
         <td>
-          43,480.14
+          12,106.82
         </td>
       </tr>
       <tr
@@ -1224,7 +1224,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Dates
         </td>
         <td>
-          58,584.80
+          18,813.60
         </td>
       </tr>
       <tr
@@ -1234,7 +1234,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Dried Plums
         </td>
         <td>
-          32,348.30
+          10,022.30
         </td>
       </tr>
       <tr
@@ -1244,7 +1244,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Eggplant
         </td>
         <td>
-          31,654.80
+          10,173.60
         </td>
       </tr>
       <tr
@@ -1254,7 +1254,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Endive
         </td>
         <td>
-          56,476.41
+          15,671.01
         </td>
       </tr>
       <tr
@@ -1264,7 +1264,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Escarole
         </td>
         <td>
-          15,047.53
+          8,443.37
         </td>
       </tr>
       <tr
@@ -1274,7 +1274,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Feijoa
         </td>
         <td>
-          54,089.70
+          12,015.94
         </td>
       </tr>
       <tr
@@ -1284,7 +1284,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Fennel
         </td>
         <td>
-          38,885.46
+          12,870.70
         </td>
       </tr>
       <tr
@@ -1294,7 +1294,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Figs
         </td>
         <td>
-          31,304.40
+          14,169.36
         </td>
       </tr>
       <tr
@@ -1304,7 +1304,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Garlic
         </td>
         <td>
-          41,452.32
+          16,872.96
         </td>
       </tr>
       <tr
@@ -1314,7 +1314,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Gooseberries
         </td>
         <td>
-          8,188.36
+          2,980.52
         </td>
       </tr>
       <tr
@@ -1324,7 +1324,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Grapefruit
         </td>
         <td>
-          73,259.56
+          20,697.72
         </td>
       </tr>
       <tr
@@ -1334,7 +1334,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Grapes
         </td>
         <td>
-          77,157.89
+          26,356.69
         </td>
       </tr>
       <tr
@@ -1344,7 +1344,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Green Beans
         </td>
         <td>
-          28,501.22
+          11,531.14
         </td>
       </tr>
       <tr
@@ -1354,7 +1354,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Green Onions
         </td>
         <td>
-          52,701.66
+          15,536.90
         </td>
       </tr>
       <tr
@@ -1364,7 +1364,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Greens
         </td>
         <td>
-          41,068.50
+          11,121.90
         </td>
       </tr>
       <tr
@@ -1374,7 +1374,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Guava
         </td>
         <td>
-          97,573.25
+          28,212.45
         </td>
       </tr>
       <tr
@@ -1384,7 +1384,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Hominy
         </td>
         <td>
-          15,318.20
+          9,083.96
         </td>
       </tr>
       <tr
@@ -1394,7 +1394,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Honeydew Melon
         </td>
         <td>
-          26,285.91
+          10,559.43
         </td>
       </tr>
       <tr
@@ -1404,7 +1404,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Horned Melon
         </td>
         <td>
-          24,053.92
+          6,569.64
         </td>
       </tr>
       <tr
@@ -1414,7 +1414,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Iceberg Lettuce
         </td>
         <td>
-          78,537.54
+          21,069.78
         </td>
       </tr>
       <tr
@@ -1424,7 +1424,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Jerusalem Artichoke
         </td>
         <td>
-          76,926.36
+          28,203.00
         </td>
       </tr>
       <tr
@@ -1434,7 +1434,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Jicama
         </td>
         <td>
-          38,845.80
+          13,444.20
         </td>
       </tr>
       <tr
@@ -1444,7 +1444,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Kale
         </td>
         <td>
-          25,959.04
+          8,933.76
         </td>
       </tr>
       <tr
@@ -1454,7 +1454,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Kiwifruit
         </td>
         <td>
-          110,577.80
+          33,122.60
         </td>
       </tr>
       <tr
@@ -1464,7 +1464,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Kohlrabi
         </td>
         <td>
-          57,571.29
+          21,898.89
         </td>
       </tr>
       <tr
@@ -1474,7 +1474,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Kumquat
         </td>
         <td>
-          29,410.32
+          13,267.92
         </td>
       </tr>
       <tr
@@ -1484,7 +1484,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Leeks
         </td>
         <td>
-          27,995.50
+          7,269.34
         </td>
       </tr>
       <tr
@@ -1494,7 +1494,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Lemons
         </td>
         <td>
-          58,841.83
+          17,755.07
         </td>
       </tr>
       <tr
@@ -1504,7 +1504,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Lettuce
         </td>
         <td>
-          23,091.96
+          10,037.56
         </td>
       </tr>
       <tr
@@ -1514,7 +1514,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Lima Beans
         </td>
         <td>
-          13,336.08
+          3,670.68
         </td>
       </tr>
       <tr
@@ -1524,7 +1524,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Limes
         </td>
         <td>
-          45,183.60
+          15,708.00
         </td>
       </tr>
       <tr
@@ -1534,7 +1534,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Longan
         </td>
         <td>
-          64,126.80
+          18,495.20
         </td>
       </tr>
       <tr
@@ -1544,7 +1544,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Loquat
         </td>
         <td>
-          15,827.40
+          5,705.68
         </td>
       </tr>
       <tr
@@ -1554,7 +1554,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Lychee
         </td>
         <td>
-          78,172.78
+          20,981.66
         </td>
       </tr>
       <tr
@@ -1564,7 +1564,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Madarins
         </td>
         <td>
-          9,442.48
+          4,747.44
         </td>
       </tr>
       <tr
@@ -1574,7 +1574,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Malanga
         </td>
         <td>
-          69,893.54
+          18,386.10
         </td>
       </tr>
       <tr
@@ -1584,7 +1584,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Mandarin Oranges
         </td>
         <td>
-          26,911.60
+          12,380.40
         </td>
       </tr>
       <tr
@@ -1594,7 +1594,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Mangos
         </td>
         <td>
-          35,719.04
+          10,977.28
         </td>
       </tr>
       <tr
@@ -1604,7 +1604,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Mulberries
         </td>
         <td>
-          19,777.32
+          9,189.96
         </td>
       </tr>
       <tr
@@ -1614,7 +1614,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Mushrooms
         </td>
         <td>
-          41,528.72
+          12,557.84
         </td>
       </tr>
       <tr
@@ -1624,7 +1624,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Napa
         </td>
         <td>
-          46,039.96
+          15,087.56
         </td>
       </tr>
       <tr
@@ -1634,7 +1634,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Nectarines
         </td>
         <td>
-          144,289.28
+          31,706.88
         </td>
       </tr>
       <tr
@@ -1644,7 +1644,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Okra
         </td>
         <td>
-          87,110.49
+          20,784.21
         </td>
       </tr>
       <tr
@@ -1654,7 +1654,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Onion
         </td>
         <td>
-          61,253.80
+          15,888.04
         </td>
       </tr>
       <tr
@@ -1664,7 +1664,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Oranges
         </td>
         <td>
-          31,637.34
+          10,575.18
         </td>
       </tr>
       <tr
@@ -1674,7 +1674,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Papayas
         </td>
         <td>
-          46,189.38
+          19,369.74
         </td>
       </tr>
       <tr
@@ -1684,7 +1684,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Parsnip
         </td>
         <td>
-          73,705.37
+          17,594.65
         </td>
       </tr>
       <tr
@@ -1694,7 +1694,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Passion Fruit
         </td>
         <td>
-          72,578.88
+          21,589.92
         </td>
       </tr>
       <tr
@@ -1704,7 +1704,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Peaches
         </td>
         <td>
-          71,773.02
+          18,759.18
         </td>
       </tr>
       <tr
@@ -1714,7 +1714,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Pears
         </td>
         <td>
-          28,020.90
+          10,329.30
         </td>
       </tr>
       <tr
@@ -1724,7 +1724,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Peas
         </td>
         <td>
-          41,901.60
+          17,965.60
         </td>
       </tr>
       <tr
@@ -1734,7 +1734,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Peppers
         </td>
         <td>
-          18,093.13
+          8,838.01
         </td>
       </tr>
       <tr
@@ -1744,7 +1744,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Persimmons
         </td>
         <td>
-          77,241.46
+          24,514.18
         </td>
       </tr>
       <tr
@@ -1754,7 +1754,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Pineapple
         </td>
         <td>
-          77,516.16
+          23,462.40
         </td>
       </tr>
       <tr
@@ -1764,7 +1764,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Plantains
         </td>
         <td>
-          36,013.94
+          9,978.90
         </td>
       </tr>
       <tr
@@ -1774,7 +1774,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Plums
         </td>
         <td>
-          30,911.40
+          13,314.60
         </td>
       </tr>
       <tr
@@ -1784,7 +1784,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Pomegranate
         </td>
         <td>
-          45,569.93
+          13,551.09
         </td>
       </tr>
       <tr
@@ -1794,7 +1794,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Potatoes
         </td>
         <td>
-          40,984.50
+          10,812.54
         </td>
       </tr>
       <tr
@@ -1804,7 +1804,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Prickly Pear
         </td>
         <td>
-          52,772.03
+          17,522.59
         </td>
       </tr>
       <tr
@@ -1814,7 +1814,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Prunes
         </td>
         <td>
-          50,499.54
+          13,644.54
         </td>
       </tr>
       <tr
@@ -1824,7 +1824,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Pummelo
         </td>
         <td>
-          41,013.96
+          20,429.40
         </td>
       </tr>
       <tr
@@ -1834,7 +1834,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Pumpkin
         </td>
         <td>
-          36,389.32
+          10,547.88
         </td>
       </tr>
       <tr
@@ -1844,7 +1844,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Quince
         </td>
         <td>
-          52,623.78
+          15,250.34
         </td>
       </tr>
       <tr
@@ -1854,7 +1854,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Radicchio
         </td>
         <td>
-          66,815.55
+          20,453.27
         </td>
       </tr>
       <tr
@@ -1864,7 +1864,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Radishes
         </td>
         <td>
-          107,601.96
+          30,051.48
         </td>
       </tr>
       <tr
@@ -1874,7 +1874,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Raisins
         </td>
         <td>
-          21,612.69
+          7,411.05
         </td>
       </tr>
       <tr
@@ -1884,7 +1884,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Raspberries
         </td>
         <td>
-          10,774.94
+          4,318.82
         </td>
       </tr>
       <tr
@@ -1894,7 +1894,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Red Cabbage
         </td>
         <td>
-          47,231.20
+          12,005.60
         </td>
       </tr>
       <tr
@@ -1904,7 +1904,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Rhubarb
         </td>
         <td>
-          57,348.20
+          14,905.80
         </td>
       </tr>
       <tr
@@ -1914,7 +1914,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Romaine Lettuce
         </td>
         <td>
-          143,328.00
+          32,786.28
         </td>
       </tr>
       <tr
@@ -1924,7 +1924,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Rutabaga
         </td>
         <td>
-          63,114.32
+          18,551.12
         </td>
       </tr>
       <tr
@@ -1934,7 +1934,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Shallots
         </td>
         <td>
-          18,530.01
+          6,517.17
         </td>
       </tr>
       <tr
@@ -1944,7 +1944,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Snow Peas
         </td>
         <td>
-          39,186.43
+          11,989.19
         </td>
       </tr>
       <tr
@@ -1954,7 +1954,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Spinach
         </td>
         <td>
-          75,612.96
+          19,822.32
         </td>
       </tr>
       <tr
@@ -1964,7 +1964,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Sprouts
         </td>
         <td>
-          92,032.20
+          27,061.80
         </td>
       </tr>
       <tr
@@ -1974,7 +1974,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Squash
         </td>
         <td>
-          37,160.00
+          15,080.00
         </td>
       </tr>
       <tr
@@ -1984,7 +1984,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Strawberries
         </td>
         <td>
-          23,904.58
+          11,681.46
         </td>
       </tr>
       <tr
@@ -1994,7 +1994,7 @@ exports[`renders table that is sorted ascending 1`] = `
           String Beans
         </td>
         <td>
-          88,134.22
+          22,731.62
         </td>
       </tr>
       <tr
@@ -2004,7 +2004,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Sweet Potato
         </td>
         <td>
-          114,384.00
+          31,680.00
         </td>
       </tr>
       <tr
@@ -2014,7 +2014,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Tangelo
         </td>
         <td>
-          56,560.35
+          19,831.35
         </td>
       </tr>
       <tr
@@ -2024,7 +2024,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Tangerines
         </td>
         <td>
-          87,315.36
+          29,450.24
         </td>
       </tr>
       <tr
@@ -2034,7 +2034,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Tomatillo
         </td>
         <td>
-          34,873.02
+          9,560.46
         </td>
       </tr>
       <tr
@@ -2044,7 +2044,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Tomato
         </td>
         <td>
-          37,336.14
+          14,517.90
         </td>
       </tr>
       <tr
@@ -2054,7 +2054,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Turnip
         </td>
         <td>
-          52,526.76
+          15,564.12
         </td>
       </tr>
       <tr
@@ -2064,7 +2064,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Ugli Fruit
         </td>
         <td>
-          33,546.50
+          10,838.10
         </td>
       </tr>
       <tr
@@ -2074,7 +2074,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Water Chestnuts
         </td>
         <td>
-          19,877.70
+          7,857.66
         </td>
       </tr>
       <tr
@@ -2084,7 +2084,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Watercress
         </td>
         <td>
-          35,422.58
+          13,642.14
         </td>
       </tr>
       <tr
@@ -2094,7 +2094,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Watermelon
         </td>
         <td>
-          65,825.76
+          19,219.20
         </td>
       </tr>
       <tr
@@ -2104,7 +2104,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Waxed Beans
         </td>
         <td>
-          32,012.64
+          9,119.88
         </td>
       </tr>
       <tr
@@ -2114,7 +2114,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Yams
         </td>
         <td>
-          60,014.10
+          13,719.66
         </td>
       </tr>
       <tr
@@ -2124,7 +2124,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Yellow Squash
         </td>
         <td>
-          71,833.72
+          23,634.52
         </td>
       </tr>
       <tr
@@ -2134,7 +2134,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Yuca/Cassava
         </td>
         <td>
-          174,010.60
+          44,490.84
         </td>
       </tr>
       <tr
@@ -2144,7 +2144,7 @@ exports[`renders table that is sorted ascending 1`] = `
           Zucchini Squash
         </td>
         <td>
-          40,640.80
+          13,077.28
         </td>
       </tr>
     </ProductItem>
@@ -2155,7 +2155,7 @@ exports[`renders table that is sorted ascending 1`] = `
         Total
       </td>
       <td>
-        6,787,878.84
+        2,102,619.44
       </td>
     </tr>
   </tfoot>
